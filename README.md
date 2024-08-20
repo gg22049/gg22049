@@ -17,7 +17,7 @@ I'm just a simple, average engineering student trying to enjoy life.
 <tr>
 <td>
 <a href="https://www.ues.edu.sv/">
-<img src="https://twitter.com/uesoficial">
+<img src="https://memoria.ues.edu.sv/wp-content/uploads/sites/46/2023/09/logo-ues-blanco-1-838x1024.png">
 </a>
 </td>
 </tr>
