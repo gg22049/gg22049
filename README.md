@@ -1,15 +1,14 @@
-## Hello World 👋
+### Hello World 👋
 
-I'm just a simple, average engineering student trying to enjoy life.
+I'm just a simple and average engineering student trying to enjoy life.
 
 > ## Goals:
 > 
 > * Enjoy the learning process.
-> * Pass the subjects by gaining as much knowledge as possible.
 > * Take responsibility.
-> * Help others with social hours.
+> * Improve my personal develop skill
+> * Develop myself fully
 > * Finish college degree.
-> * Be an excellent professional.
 
 ## Campus
 
